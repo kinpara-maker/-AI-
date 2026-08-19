@@ -1,0 +1,6 @@
+{
+  "name": "補助金・助成金AIコンサルタント",
+  "description": "中小企業・個人事業主向けに、地域・業種・使い道から最新の補助金・助成金を検索・提案する専門AIコンサルタント。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
