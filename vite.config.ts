@@ -4,6 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+  base: '/-AI-/',  // 👈 この1行を追加します！（リポジトリ名「-AI-」を指定）
   return {
     plugins: [react(), tailwindcss()],
     resolve: {
